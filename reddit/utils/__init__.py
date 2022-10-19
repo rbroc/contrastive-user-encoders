@@ -9,7 +9,8 @@ from .datasets import (split_dataset,
                        remove_short_targets)
 from .compute import (compute_mean_pairwise_distance,
                       average_encodings,
-                      sampling_vae)
+                      sampling_vae, 
+                      average_encodings_unbatched)
 from .models import (save_encoder_huggingface,
                      load_weights_from_huggingface, 
                      dense_to_str,
@@ -32,6 +33,7 @@ __all__ = ['save_tfrecord',
            'remove_short_targets',
            'average_encodings',
            'sampling_vae',
+           'average_encodings_unbatched',
            'compute_mean_pairwise_distance',
            'save_encoder_huggingface',
            'load_weights_from_huggingface',
