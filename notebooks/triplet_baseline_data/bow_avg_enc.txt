@@ -1,0 +1,73 @@
+	words	metric	mode	subset	performance
+0	100	euclidean	binary		0.60838
+1	100	euclidean	binary	10.0	0.607442
+2	100	euclidean	binary	20.0	0.60846
+3	100	euclidean	count		0.609346
+4	100	euclidean	count	10.0	0.607636
+5	100	euclidean	count	20.0	0.609202
+6	100	euclidean	tfidf		0.57948
+7	100	euclidean	tfidf	10.0	0.58013
+8	100	euclidean	tfidf	20.0	0.579766
+9	100	euclidean	freq		0.55301
+10	100	euclidean	freq	10.0	0.553074
+11	100	euclidean	freq	20.0	0.552862
+12	100	manhattan	binary		0.608286
+13	100	manhattan	binary	10.0	0.607728
+14	100	manhattan	binary	20.0	0.608224
+15	100	manhattan	count		0.61268
+16	100	manhattan	count	10.0	0.60993
+17	100	manhattan	count	20.0	0.612358
+18	100	manhattan	tfidf		0.59398
+19	100	manhattan	tfidf	10.0	0.593622
+20	100	manhattan	tfidf	20.0	0.594086
+21	100	manhattan	freq		0.571792
+22	100	manhattan	freq	10.0	0.573274
+23	100	manhattan	freq	20.0	0.572282
+24	1000	euclidean	binary		0.541692
+25	1000	euclidean	binary	10.0	0.541426
+26	1000	euclidean	binary	20.0	0.541582
+27	1000	euclidean	count		0.594258
+28	1000	euclidean	count	10.0	0.593844
+29	1000	euclidean	count	20.0	0.594106
+30	1000	euclidean	tfidf		0.531034
+31	1000	euclidean	tfidf	10.0	0.531438
+32	1000	euclidean	tfidf	20.0	0.53112
+33	1000	euclidean	freq		0.544796
+34	1000	euclidean	freq	10.0	0.544938
+35	1000	euclidean	freq	20.0	0.544708
+36	1000	manhattan	binary		0.541742
+37	1000	manhattan	binary	10.0	0.541744
+38	1000	manhattan	binary	20.0	0.54175
+39	1000	manhattan	count		0.567708
+40	1000	manhattan	count	10.0	0.567184
+41	1000	manhattan	count	20.0	0.567594
+42	1000	manhattan	tfidf		0.53757
+43	1000	manhattan	tfidf	10.0	0.537746
+44	1000	manhattan	tfidf	20.0	0.537646
+45	1000	manhattan	freq		0.588504
+46	1000	manhattan	freq	10.0	0.589974
+47	1000	manhattan	freq	20.0	0.588958
+48	5000	euclidean	binary		0.53461
+49	5000	euclidean	binary	10.0	0.534296
+50	5000	euclidean	binary	20.0	0.534532
+51	5000	euclidean	count		0.584348
+52	5000	euclidean	count	10.0	0.583848
+53	5000	euclidean	count	20.0	0.584346
+54	5000	euclidean	tfidf		0.524004
+55	5000	euclidean	tfidf	10.0	0.524078
+56	5000	euclidean	tfidf	20.0	0.523964
+57	5000	euclidean	freq		0.540212
+58	5000	euclidean	freq	10.0	0.540294
+59	5000	euclidean	freq	20.0	0.540114
+60	5000	manhattan	binary		0.5346
+61	5000	manhattan	binary	10.0	0.534272
+62	5000	manhattan	binary	20.0	0.534532
+63	5000	manhattan	count		0.550676
+64	5000	manhattan	count	10.0	0.550054
+65	5000	manhattan	count	20.0	0.55052
+66	5000	manhattan	tfidf		0.529328
+67	5000	manhattan	tfidf	10.0	0.529362
+68	5000	manhattan	tfidf	20.0	0.52938
+69	5000	manhattan	freq		0.595304
+70	5000	manhattan	freq	10.0	0.596548
+71	5000	manhattan	freq	20.0	0.595412

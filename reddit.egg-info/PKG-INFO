@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: reddit
+Version: 0.0.1
+Summary: Training personality encoders from Reddit posts
+Home-page: http://github.com/rbroc/personality_reddit
+Maintainer: Roberta Rocca
+Maintainer-email: rbrrcc@gmail.com
+License: MIT
+Download-URL: https://github.com/rbroc/personality_reddit/archive/0.0.1.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6

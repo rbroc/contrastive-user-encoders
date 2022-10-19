@@ -1,0 +1,5 @@
+	metric	subset	performance
+0	euclidean	10	0.634296
+1	euclidean	20	0.634604
+2	manhattan	10	0.624118
+3	manhattan	20	0.6243
