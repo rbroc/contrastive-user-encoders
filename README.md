@@ -1,4 +1,4 @@
-## Training transformers with structured context
+## Contrastive training of author encoders using transformers
 Includes code for constrastive user encoder from the EMNLP Findings paper:
 - Rocca, R., & Yarkoni, T. (2022), Language models as user encoders: Self-supervised learning of user encodings using transformers, to appear in *Findings of the Association for Computational Linguistics: EMNLP 2022* (link coming soon)
 
